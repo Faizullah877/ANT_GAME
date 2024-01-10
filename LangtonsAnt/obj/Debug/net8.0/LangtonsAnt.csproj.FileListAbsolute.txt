@@ -1,0 +1,14 @@
+C:\Dev\ANT_GAME\LangtonsAnt\bin\Debug\net8.0\LangtonsAnt.exe
+C:\Dev\ANT_GAME\LangtonsAnt\bin\Debug\net8.0\LangtonsAnt.deps.json
+C:\Dev\ANT_GAME\LangtonsAnt\bin\Debug\net8.0\LangtonsAnt.runtimeconfig.json
+C:\Dev\ANT_GAME\LangtonsAnt\bin\Debug\net8.0\LangtonsAnt.dll
+C:\Dev\ANT_GAME\LangtonsAnt\bin\Debug\net8.0\LangtonsAnt.pdb
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.AssemblyInfoInputs.cache
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.AssemblyInfo.cs
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.csproj.CoreCompileInputs.cache
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.dll
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\refint\LangtonsAnt.dll
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.pdb
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.genruntimeconfig.cache
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\ref\LangtonsAnt.dll
