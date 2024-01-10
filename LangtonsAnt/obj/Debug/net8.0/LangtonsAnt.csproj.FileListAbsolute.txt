@@ -12,3 +12,4 @@ C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\refint\LangtonsAnt.dll
 C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.pdb
 C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.genruntimeconfig.cache
 C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\ref\LangtonsAnt.dll
+C:\Dev\ANT_GAME\LangtonsAnt\obj\Debug\net8.0\LangtonsAnt.sourcelink.json
